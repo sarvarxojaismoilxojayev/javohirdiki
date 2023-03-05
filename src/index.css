@@ -1,0 +1,7 @@
+* {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+.main-section { background-image: url(/public/images/showcase.png); background-position-x: center; background-position-y: center; background-size: cover;
+width: 98.5vw;
+height: 87vh;
+}
